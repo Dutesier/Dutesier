@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there fellow coder, 42er or recruiter (one can hope)!
 
 <!--
 **Dutesier/Dutesier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
