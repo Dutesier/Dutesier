@@ -1,5 +1,6 @@
+![Readme Banner](images/ReadmeBanner.png)
 ### Hi there fellow coder, 42er or recruiter (one can hope)!
-
+My name is Duarte Areias dos Reis, a.k.a. Dutesier
 <!--
 **Dutesier/Dutesier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
