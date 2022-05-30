@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <h2 align="center"> 👨‍💻 About me</h2>
 <p align="center">
   <samp>
-My name is Duarte Areias dos Reis, a.k.a. Dutesier, and I've been learning software development @ 42 Lisboa. I've also been intering here, helping the team deveoping internal tools, mainly using GO. I have a background in management but coding is my passion. I also love Brazilian Jiu-Jitsu, woodworking and D&D :dragon: 
+My name is Duarte Areias dos Reis, a.k.a. Dutesier, and I've been learning software development @ 42 Lisboa. I've also been interning here, helping the team develop internal tools, mainly using GO. I have a background in management but coding is my passion. I also love Brazilian Jiu-Jitsu, woodworking and D&D :dragon: 
   </samp>
 </p>
 
