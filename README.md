@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 
 ![Readme Banner](images/ReadmeBanner.png)
 
-<h1 align="center"> Hi there fellow coder, 42er or recruiter (one can hope)! </h1>
+<h1 align="center"> Hi there fellow coder, 42er or CTWer! </h1>
 
-<p align="center"> (Open for Hiring)</p>
+<p align="center"> (Always Learning)</p>
 
 <h2 align="center"> 👨‍💻 About me</h2>
 <p align="center">
   <samp>
-My name is Duarte Areias dos Reis, a.k.a. Dutesier, and I've been learning software development @ 42 Lisboa. I've also been interning here, helping the team develop internal tools, mainly using GO. I have a background in management but coding is my passion. I also love Brazilian Jiu-Jitsu, woodworking and D&D :dragon: 
+My name is Duarte Areias dos Reis, a.k.a. Dutesier, and I'm a Software Developer @ Critical Software (BMW Group) and a proud member of 42 Lisboa. I'm currently exploring the crazy world of machine learning. I have a background in management but coding is my biggest passion. I also love Brazilian Jiu-Jitsu, woodworking and D&D :dragon: 
   </samp>
 </p>
 
