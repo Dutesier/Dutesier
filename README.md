@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <h2 align="center"> 👨‍💻 About me</h2>
 <p align="center">
   <samp>
-My name is Duarte Areias dos Reis, a.k.a. Dutesier, and I'm a Software Developer @ Critical Software (BMW Group) and a proud member of 42 Lisboa. I'm currently exploring the crazy world of machine learning. I have a background in management but coding is my biggest passion. I also love Brazilian Jiu-Jitsu, woodworking and D&D :dragon: 
+My name is Duarte Areias dos Reis, a.k.a. Dutesier, and I'm a Software Developer @ Critical Software (BMW Group) and a proud member of 42 Lisboa. I'm currently exploring the crazy world of machine learning, learning a bit more about game development and writing a full-stack application using Go and Vue.js. I have a background in business management and coding is my biggest passion. I also love Brazilian Jiu-Jitsu, woodworking and D&D :dragon: 
   </samp>
 </p>
 
@@ -34,7 +34,7 @@ My name is Duarte Areias dos Reis, a.k.a. Dutesier, and I'm a Software Developer
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />&nbsp;&nbsp;
 </p>
-<p align="center">C, C++, Go (Golang), Python, Docker, Git, Github, Unity, Blender.</p>
+<p align="center">C, C++, C#, Go (Golang), Python, Docker, Git, Github, Unity, Vue.js, Blender.</p>
 
 
 <hr>
