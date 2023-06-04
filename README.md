@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center"> Hi there fellow coder, 42er or CTWer! </h1>
 
-<p align="center"> (Always Learning)</p>
+<p align="center"> (Automotive, Machine Learning, Game Development & more)</p>
 
 <h2 align="center"> 👨‍💻 About me</h2>
 <p align="center">
